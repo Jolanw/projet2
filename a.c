@@ -38,7 +38,7 @@ int main(int argc, char * argv[])
 	printf("temps 2 : %ld\n",elapsed2);
 	printf("le temps 1 est %ld fois plus court que le temps 2", (elapsed2/elapsed1));
 	
-	return sum; 
+	return (sum+1); 
 
 
 } 
