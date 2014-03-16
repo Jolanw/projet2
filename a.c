@@ -4,6 +4,10 @@
 
 #define SIZE 1000 
 
+
+//C'est quoi ces trucs????? c'est toi qui t'amuses à tester?? Si c'est comme ça moi aussi je teste :p
+
+
 int main(int argc, char * argv[])
 {
 	int matrix[SIZE][SIZE]; 
